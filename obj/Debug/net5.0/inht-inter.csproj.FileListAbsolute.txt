@@ -1,0 +1,16 @@
+C:\source\codeworks\AI\csharp\inht-inter\bin\Debug\net5.0\inht-inter.exe
+C:\source\codeworks\AI\csharp\inht-inter\bin\Debug\net5.0\inht-inter.deps.json
+C:\source\codeworks\AI\csharp\inht-inter\bin\Debug\net5.0\inht-inter.runtimeconfig.json
+C:\source\codeworks\AI\csharp\inht-inter\bin\Debug\net5.0\inht-inter.runtimeconfig.dev.json
+C:\source\codeworks\AI\csharp\inht-inter\bin\Debug\net5.0\inht-inter.dll
+C:\source\codeworks\AI\csharp\inht-inter\bin\Debug\net5.0\ref\inht-inter.dll
+C:\source\codeworks\AI\csharp\inht-inter\bin\Debug\net5.0\inht-inter.pdb
+C:\source\codeworks\AI\csharp\inht-inter\obj\Debug\net5.0\inht-inter.csprojAssemblyReference.cache
+C:\source\codeworks\AI\csharp\inht-inter\obj\Debug\net5.0\inht-inter.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\codeworks\AI\csharp\inht-inter\obj\Debug\net5.0\inht-inter.AssemblyInfoInputs.cache
+C:\source\codeworks\AI\csharp\inht-inter\obj\Debug\net5.0\inht-inter.AssemblyInfo.cs
+C:\source\codeworks\AI\csharp\inht-inter\obj\Debug\net5.0\inht-inter.csproj.CoreCompileInputs.cache
+C:\source\codeworks\AI\csharp\inht-inter\obj\Debug\net5.0\inht-inter.dll
+C:\source\codeworks\AI\csharp\inht-inter\obj\Debug\net5.0\ref\inht-inter.dll
+C:\source\codeworks\AI\csharp\inht-inter\obj\Debug\net5.0\inht-inter.pdb
+C:\source\codeworks\AI\csharp\inht-inter\obj\Debug\net5.0\inht-inter.genruntimeconfig.cache
