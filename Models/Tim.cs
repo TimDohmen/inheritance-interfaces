@@ -1,3 +1,4 @@
+using System;
 using inht_inter.Interfaces;
 
 namespace inht_inter.Models
@@ -11,12 +12,21 @@ namespace inht_inter.Models
     }
 
     public int Orders { get; set; }
+
     public int Repositories { get; set; }
+
 
     public bool EatDoritos()
     {
-      throw new System.NotImplementedException();
+      System.Console.WriteLine("Yumm");
+      return true;
     }
+
+    public void WriteCode(Music music)
+    {
+      System.Console.WriteLine("Anything but carousels.");
+    }
+
 
     public override int MileTime()
     {
@@ -28,9 +38,6 @@ namespace inht_inter.Models
     {
       return (Age * 2) / 2;
     }
-    public void WriteCode()
-    {
-      System.Console.WriteLine("Anything but carousels.");
-    }
+
   }
 }

@@ -1,12 +1,14 @@
+using System;
+
 namespace inht_inter.Interfaces
 {
   public interface IOrderWriter
   {
     int Orders { get; set; }
-    int OrderStock()
+    static int OrderStock()
     {
-      Orders++;
-      return Orders;
+      Random random = new Random();
+      return random.Next(100);
     }
   }
 }
